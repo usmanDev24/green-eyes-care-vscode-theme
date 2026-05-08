@@ -6,7 +6,7 @@
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev)
 
-If this theme helps you, please consider:
+If this theme helps you, consider:
 
   - 🌟 [Star](https://github.com/UsmanDev24/green-eyes-care-vscode-theme) on GitHub
   - ⭐ [Rate](https://marketplace.visualstudio.com/items?itemName=usmandev24.green-eyes-care-theme&ssr=false#review-details) on Marketplace
@@ -68,4 +68,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 2.3.0
+**Version**: 2.4.0
