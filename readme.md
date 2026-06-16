@@ -10,8 +10,13 @@ If this theme helps you, consider:
 
   - 🌟 [Star](https://github.com/UsmanDev24/green-eyes-care-vscode-theme) on GitHub
   - ⭐ [Rate](https://marketplace.visualstudio.com/items?itemName=usmandev24.green-eyes-care-theme&ssr=false#review-details) on Marketplace
+
+  - All of these are good, **Green Eyes: Dark Vivid**  is definitely my favorite
+   for everyday coding if you want to give it a spin!
+
 ## SecreenShots: 
-Dark Vivid Green:
+
+**Green Eyes: Dark Vivid (2026):**
 ![image](https://github.com/user-attachments/assets/ae574a0f-096c-450e-8595-6b5cf651bd0f)
 
 ![image](https://github.com/user-attachments/assets/d886c244-9418-47b2-97b4-1def9c83fbf0)
@@ -68,4 +73,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 2.4.0
+**Version**: 2.5.1
