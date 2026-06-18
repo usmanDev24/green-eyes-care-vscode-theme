@@ -53,7 +53,7 @@
                 "storage.type.primitive.groovy"
             ],
             "settings": {
-                "foreground": "#c8c86c"
+                "foreground": "#caca2f"
             }
         },
         {
@@ -91,7 +91,7 @@
                 "variable"
             ],
             "settings": {
-                "foreground": "#e0dacc"
+                "foreground": "#dad6c8"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "support.variable"
             ],
             "settings": {
-                "foreground": "#e0dacc"
+                "foreground": "#dad6c8"
             }
         },
         {

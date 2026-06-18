@@ -389,29 +389,6 @@
             "settings": {
                 "foreground": "#e09d57"
             }
-        },
-        {
-            "name": "High-Contrast Structural Scaffolding Framework (Image Pattern)",
-            "scope": [
-                "punctuation.separator",
-                "punctuation.terminator",
-                "punctuation.section.class.begin",
-                "punctuation.section.class.end",
-                "punctuation.section.block.begin",
-                "punctuation.section.block.end",
-                "punctuation.section.brackets.begin",
-                "punctuation.section.brackets.end",
-                "punctuation.section.arguments.begin",
-                "punctuation.section.arguments.end",
-                "punctuation.section.parameters.begin",
-                "punctuation.section.parameters.end",
-                "meta.brace.round",
-                "meta.brace.square",
-                "meta.brace.curly"
-            ],
-            "settings": {
-                "foreground": "#C586c0"
-            }
         }
     ],
     "semanticHighlighting": true,
