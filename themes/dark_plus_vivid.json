@@ -13,7 +13,7 @@
                 "entity.name.operator.custom-literal"
             ],
             "settings": {
-                "foreground": "#DCDCAA"
+                "foreground": "#dcdc94"
             }
         },
         {
@@ -89,13 +89,24 @@
             "name": "Variable and parameter name",
             "scope": [
                 "variable",
+            ],
+            "settings": {
+                "foreground": "#e1d9ca"
+            }
+        },
+        {
+            "name": "parameter",
+            "scope" : [
                 "meta.definition.variable.name",
                 "support.variable",
                 "entity.name.variable",
-                "constant.other.placeholder"
+                "constant.other.placeholder",
+                "meta.parameter.type.variable",
+                "variable.parameter",
+				"string.constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#A2E3A2"
+                "foreground": "#92efa8"
             }
         },
         {

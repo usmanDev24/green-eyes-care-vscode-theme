@@ -55,9 +55,11 @@
             }
         },
         {
+            "name": "Readable Markdown/Doc Headers",
             "scope": "header",
             "settings": {
-                "foreground": "#000080"
+                "fontStyle": "bold",
+                "foreground": "#35bb50"
             }
         },
         {
@@ -289,7 +291,7 @@
             }
         },
         {
-            "name": "String interpolation",
+            "name": "String interpolation boundaries",
             "scope": [
                 "punctuation.definition.template-expression.begin",
                 "punctuation.definition.template-expression.end",
@@ -297,15 +299,6 @@
             ],
             "settings": {
                 "foreground": "#35bb50"
-            }
-        },
-        {
-            "name": "Reset JavaScript string interpolation expression",
-            "scope": [
-                "meta.template.expression"
-            ],
-            "settings": {
-                "foreground": "#d4d4d4"
             }
         },
         {
@@ -402,9 +395,8 @@
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
-        "newOperator": "#d4d4d4",
-        "stringLiteral": "#ce9178",
-        "customLiteral": "#D4D4D4",
-        "numberLiteral": "#b5cea8"
+        "operator": "#d4d4d4",
+        "string": "#ce9178",
+        "number": "#b5cea8"
     }
 }
