@@ -11,12 +11,16 @@ If this theme helps you, consider:
   - 🌟 [Star](https://github.com/UsmanDev24/green-eyes-care-vscode-theme) on GitHub
   - ⭐ [Rate](https://marketplace.visualstudio.com/items?itemName=usmandev24.green-eyes-care-theme&ssr=false#review-details) on Marketplace
 
-  - All of these are good, **Green Eyes: Dark Vivid**  is definitely my favorite
+  - All of these are good, **Green Eyes: Dark Medium**  is definitely my favorite
    for everyday coding if you want to give it a spin!
+## Note: 
+  - From version 3.0.0 themes are completly rewritten.
+  - You can check both  2.*.* and 3.*.*
+
 
 ## SecreenShots: 
 
-**Green Eyes: Dark Vivid (2026):**
+**Green Eyes: Dark Hard**
 ![image](https://github.com/user-attachments/assets/ae574a0f-096c-450e-8595-6b5cf651bd0f)
 
 ![image](https://github.com/user-attachments/assets/d886c244-9418-47b2-97b4-1def9c83fbf0)
@@ -36,7 +40,7 @@ Light Cool Green:
   - **Green Eyes: Light Warm**: A cozy and warm green theme for daylight coding.
   - **Green Eyes: Light Cool**: A refreshing cool green theme for brighter environments.
   - **Green Eyes: Light Soft**: A subtle and softer green theme for relaxed work sessions.
-  - **Green Eyes: Dark Night**: A dark theme optimized for night-time coding.
+  - **Green Eyes: Dark Soft**: A dark theme optimized for night-time coding.
 ## Important Note: 
   Always use **jetbrains mono** When using any daylight theme. 
 ## Installation
@@ -52,10 +56,9 @@ Light Cool Green:
    - Green Eyes: Light Warm
    - Green Eyes: Light Cool
    - Green Eyes: Light Soft
-   - Green Eyes: Dark Night
-   - Green Eyes: Dark Vivid
-   - Green Eyes: Dark Night (2026)
-   - Green Eyes: Dark Vivid (2026)
+   - Green Eyes: Dark Hard
+   - Green Eyes: Dark Medium
+   - Green Eyes: Dark Soft
   
 ## Compatibility
 
@@ -73,4 +76,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 2.6.1
+**Version**: 3.0.0

@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "dark night vivid",
+  "name": "dark medium",
   "include": "./dark_plus_vivid.json",
   "colors": {
     "activityBar.activeBorder": "#800070",

@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dark Night",
-  "include": "./dark_plus_night.json",
+  "name": "Dark Hard",
+  "include": "./dark_plus_vivid.json",
   "type": "dark",
   "colors": {
     "foreground": "#DACFC4",

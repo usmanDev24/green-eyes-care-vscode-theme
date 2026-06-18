@@ -4,7 +4,7 @@
     "colors": {
         "checkbox.border": "#6B6B6B",
         "editor.background": "#1E1E1E",
-        "editor.foreground": "#D4D4D4",
+        "editor.foreground": "#D4cac0",
         "editor.inactiveSelectionBackground": "#3A3D41",
         "editorIndentGuide.background1": "#404040",
         "editorIndentGuide.activeBackground1": "#707070",
@@ -39,7 +39,7 @@
                 "variable.legacy.builtin.python"
             ],
             "settings": {
-                "foreground": "#D4D4D4"
+                "foreground": "#D4cac0"
             }
         },
         {
@@ -59,7 +59,7 @@
             "scope": "header",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
@@ -69,9 +69,10 @@
             }
         },
         {
+            "name": "Language Constants (true, false, null) - Peach Separation",
             "scope": "constant.language",
             "settings": {
-                "foreground": "#56d692"
+                "foreground": "#ff997a"
             }
         },
         {
@@ -94,7 +95,7 @@
         {
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
@@ -144,14 +145,14 @@
             "scope": "markup.bold",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
             "scope": "markup.heading",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
@@ -175,13 +176,13 @@
         {
             "scope": "markup.deleted",
             "settings": {
-                "foreground": "#ce9178"
+                "foreground": "#de9a7f"
             }
         },
         {
             "scope": "markup.changed",
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
@@ -199,7 +200,7 @@
         {
             "scope": "markup.inline.raw",
             "settings": {
-                "foreground": "#ce9178"
+                "foreground": "#de9a7f"
             }
         },
         {
@@ -215,13 +216,13 @@
                 "entity.name.function.preprocessor"
             ],
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
             "scope": "meta.preprocessor.string",
             "settings": {
-                "foreground": "#ce9178"
+                "foreground": "#de9a7f"
             }
         },
         {
@@ -231,6 +232,7 @@
             }
         },
         {
+            "name": "Python dictionary keys to Green Spectrum",
             "scope": "meta.structure.dictionary.key.python",
             "settings": {
                 "foreground": "#9aebb8"
@@ -239,28 +241,35 @@
         {
             "scope": "meta.diff.header",
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
-            "scope": "storage",
-            "settings": {
-                "foreground": "#35bb50"
-            }
-        },
-        {
-            "scope": "storage.type",
-            "settings": {
-                "foreground": "#35bb50"
-            }
-        },
-        {
+            "name": "Control Flow Machinery (async, export, return, import)",
             "scope": [
-                "storage.modifier",
-                "keyword.operator.noexcept"
+                "keyword.control",
+                "keyword.control.async",
+                "keyword.control.export",
+                "keyword.control.import",
+                "keyword.control.flow",
+                "keyword.control.conditional",
+                "keyword.control.loop"
             ],
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#C586a0"
+            }
+        },
+        {
+            "name": "Allocation Machinery (let, const, var, function, class)",
+            "scope": [
+                "storage",
+                "storage.type",
+                "storage.modifier",
+                "keyword.declaration",
+                "keyword.other.declaration"
+            ],
+            "settings": {
+                "foreground": "#e09d57"
             }
         },
         {
@@ -269,19 +278,19 @@
                 "meta.embedded.assembly"
             ],
             "settings": {
-                "foreground": "#ce9178"
+                "foreground": "#de9a7f"
             }
         },
         {
             "scope": "string.tag",
             "settings": {
-                "foreground": "#ce9178"
+                "foreground": "#de9a7f"
             }
         },
         {
             "scope": "string.value",
             "settings": {
-                "foreground": "#ce9178"
+                "foreground": "#de9a7f"
             }
         },
         {
@@ -298,10 +307,11 @@
                 "punctuation.section.embedded"
             ],
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#55bf60"
             }
         },
         {
+            "name": "Web styles properties to Green Spectrum",
             "scope": [
                 "support.type.vendored.property-name",
                 "support.type.property-name",
@@ -313,21 +323,9 @@
             }
         },
         {
-            "scope": "keyword",
-            "settings": {
-                "foreground": "#35bb50"
-            }
-        },
-        {
-            "scope": "keyword.control",
-            "settings": {
-                "foreground": "#35bb50"
-            }
-        },
-        {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#d4d4d4"
+                "foreground": "#d4cac0"
             }
         },
         {
@@ -344,7 +342,7 @@
                 "keyword.operator.wordlike"
             ],
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#C586a0"
             }
         },
         {
@@ -359,7 +357,7 @@
                 "punctuation.section.embedded.end.php"
             ],
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#C586a0"
             }
         },
         {
@@ -382,21 +380,44 @@
                 "storage.modifier.package.java"
             ],
             "settings": {
-                "foreground": "#d4d4d4"
+                "foreground": "#d4cac0"
             }
         },
         {
             "name": "this.self",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#35bb50"
+                "foreground": "#e09d57"
+            }
+        },
+        {
+            "name": "High-Contrast Structural Scaffolding Framework (Image Pattern)",
+            "scope": [
+                "punctuation.separator",
+                "punctuation.terminator",
+                "punctuation.section.class.begin",
+                "punctuation.section.class.end",
+                "punctuation.section.block.begin",
+                "punctuation.section.block.end",
+                "punctuation.section.brackets.begin",
+                "punctuation.section.brackets.end",
+                "punctuation.section.arguments.begin",
+                "punctuation.section.arguments.end",
+                "punctuation.section.parameters.begin",
+                "punctuation.section.parameters.end",
+                "meta.brace.round",
+                "meta.brace.square",
+                "meta.brace.curly"
+            ],
+            "settings": {
+                "foreground": "#C586a0"
             }
         }
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
-        "operator": "#d4d4d4",
-        "string": "#ce9178",
+        "operator": "#d4cac0",
+        "string": "#de9a7f",
         "number": "#b5cea8"
     }
 }

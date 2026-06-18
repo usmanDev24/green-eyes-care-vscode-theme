@@ -13,7 +13,7 @@
                 "entity.name.operator.custom-literal"
             ],
             "settings": {
-                "foreground": "#dcdc94"
+                "foreground": "#cccc78"
             }
         },
         {
@@ -53,7 +53,7 @@
                 "storage.type.primitive.groovy"
             ],
             "settings": {
-                "foreground": "#dfafff"
+                "foreground": "#c8c86c"
             }
         },
         {
@@ -82,31 +82,39 @@
                 "entity.name.operator"
             ],
             "settings": {
-                "foreground": "#C586C0"
+                "foreground": "#C586a0"
             }
         },
         {
-            "name": "Variable and parameter name",
+            "name": "Variable name fallback",
             "scope": [
-                "variable",
+                "variable"
             ],
             "settings": {
-                "foreground": "#e1d9ca"
+                "foreground": "#e0dacc"
             }
         },
         {
-            "name": "parameter",
+            "name": "Runtime platform built-ins",
+            "scope": [
+                "support.variable"
+            ],
+            "settings": {
+                "foreground": "#e0dacc"
+            }
+        },
+        {
+            "name": "Function parameters and declarations",
             "scope" : [
+                "variable.parameter",
+                "meta.parameter.type.variable",
                 "meta.definition.variable.name",
-                "support.variable",
                 "entity.name.variable",
                 "constant.other.placeholder",
-                "meta.parameter.type.variable",
-                "variable.parameter",
-				"string.constant.other.placeholder"
+                "string.constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#92efa8"
+                "foreground": "#6eb6d6"
             }
         },
         {
@@ -116,16 +124,18 @@
                 "variable.other.enummember"
             ],
             "settings": {
-                "foreground": "#62e769"
+                "foreground": "#52d769"
             }
         },
         {
-            "name": "Object keys, TS grammar specific",
+            "name": "Object properties Realignment (green)",
             "scope": [
-                "meta.object-literal.key"
+                "meta.object-literal.key",
+                "variable.other.property",
+                "meta.object.member"
             ],
             "settings": {
-                "foreground": "#8af3a1"
+                "foreground": "#90eaa2"
             }
         },
         {
@@ -207,9 +217,8 @@
         }
     ],
     "semanticTokenColors": {
-        "newOperator": "#C586C0",
-        "stringLiteral": "#ce9178",
-        "customLiteral": "#DCDCAA",
-        "numberLiteral": "#b5cea8"
+        "operator": "#c586a0",
+        "string": "#ce9178",
+        "number": "#b5cea8"
     }
 }
