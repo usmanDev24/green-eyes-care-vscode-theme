@@ -82,7 +82,7 @@
                 "entity.name.operator"
             ],
             "settings": {
-                "foreground": "#C586a0"
+                "foreground": "#c586c0"
             }
         },
         {
@@ -114,7 +114,7 @@
                 "string.constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#6eb6d6"
+                "foreground": "#fb5d4b"
             }
         },
         {
@@ -150,7 +150,7 @@
                 "support.constant.color"
             ],
             "settings": {
-                "foreground": "#CE9178"
+                "foreground": "#eba589"
             }
         },
         {
@@ -165,7 +165,7 @@
                 "support.other.parenthesis.regexp"
             ],
             "settings": {
-                "foreground": "#CE9178"
+                "foreground": "#eba589"
             }
         },
         {
@@ -217,8 +217,8 @@
         }
     ],
     "semanticTokenColors": {
-        "operator": "#c586a0",
-        "string": "#ce9178",
+        "operator": "#c586c0",
+        "string": "#eba589",
         "number": "#b5cea8"
     }
 }

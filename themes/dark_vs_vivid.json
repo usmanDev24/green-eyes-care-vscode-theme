@@ -176,7 +176,7 @@
         {
             "scope": "markup.deleted",
             "settings": {
-                "foreground": "#de9a7f"
+                "foreground": "#eba589"
             }
         },
         {
@@ -200,7 +200,7 @@
         {
             "scope": "markup.inline.raw",
             "settings": {
-                "foreground": "#de9a7f"
+                "foreground": "#eba589"
             }
         },
         {
@@ -222,7 +222,7 @@
         {
             "scope": "meta.preprocessor.string",
             "settings": {
-                "foreground": "#de9a7f"
+                "foreground": "#eba589"
             }
         },
         {
@@ -256,7 +256,7 @@
                 "keyword.control.loop"
             ],
             "settings": {
-                "foreground": "#C586a0"
+                "foreground": "#C586c0"
             }
         },
         {
@@ -278,19 +278,19 @@
                 "meta.embedded.assembly"
             ],
             "settings": {
-                "foreground": "#de9a7f"
+                "foreground": "#eba589"
             }
         },
         {
             "scope": "string.tag",
             "settings": {
-                "foreground": "#de9a7f"
+                "foreground": "#eba589"
             }
         },
         {
             "scope": "string.value",
             "settings": {
-                "foreground": "#de9a7f"
+                "foreground": "#eba589"
             }
         },
         {
@@ -342,7 +342,7 @@
                 "keyword.operator.wordlike"
             ],
             "settings": {
-                "foreground": "#C586a0"
+                "foreground": "#C586c0"
             }
         },
         {
@@ -357,7 +357,7 @@
                 "punctuation.section.embedded.end.php"
             ],
             "settings": {
-                "foreground": "#C586a0"
+                "foreground": "#C586c0"
             }
         },
         {
@@ -410,14 +410,14 @@
                 "meta.brace.curly"
             ],
             "settings": {
-                "foreground": "#C586a0"
+                "foreground": "#C586c0"
             }
         }
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "operator": "#d4cac0",
-        "string": "#de9a7f",
+        "string": "#eba589",
         "number": "#b5cea8"
     }
 }
