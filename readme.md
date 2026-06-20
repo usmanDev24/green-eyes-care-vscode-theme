@@ -14,8 +14,27 @@ If this theme helps you, consider:
   - All of these are good, **Green Eyes: Dark Medium**  is definitely my favorite
    for everyday coding if you want to give it a spin!
 ## Note: 
-  - From version 3.0.0 themes are completly rewritten.
-  - You can check both  2.*.* and 3.*.*
+
+  - From version 3.0.0 themes are completly rewritten ( Better EyeCare Theme ).
+  - You can check both version 2.6.3 and version > 3.0.0
+  - Version < 3.0.0 are not as good as Version > 3.0.0
+  - version < 3.0.0 will not get updates.
+## Video Preview
+[Watch the video At Youtube](https://youtu.be/bYAIbg3ctwA)
+
+## ScreenShots (Version > 3.0.0) 
+**Dark Hard**
+![image](https://github.com/user-attachments/assets/703ccabb-0a75-45c7-a648-2f6677b93980)
+![image](https://github.com/user-attachments/assets/99da9235-4029-469b-83f2-0e24b98097a4)
+
+**Dark Soft**
+![image](https://github.com/user-attachments/assets/2ca0078e-0573-48ff-a0a8-3a7a68d73559)
+![image](https://github.com/user-attachments/assets/0321b1b5-f54c-4814-bfe0-30a4b2f8fe5a)
+
+**Dark Medium**
+![image](https://github.com/user-attachments/assets/a38e11fc-ef93-4861-9efe-c2a39eba6cb6)
+![image](https://github.com/user-attachments/assets/bf74e731-e4f1-4095-9cc4-5f9297949940)
+![image](https://github.com/user-attachments/assets/bed1f702-6886-4997-a982-5a4033f7544d)
 
 
 ## SecreenShots: 
