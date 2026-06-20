@@ -37,9 +37,9 @@ If this theme helps you, consider:
 ![image](https://github.com/user-attachments/assets/bed1f702-6886-4997-a982-5a4033f7544d)
 
 
-## SecreenShots: 
+## SecreenShots ( version 2.6.3): 
 
-**Green Eyes: Dark Hard**
+**Green Eyes: Dark Vivid (2026)**
 ![image](https://github.com/user-attachments/assets/ae574a0f-096c-450e-8595-6b5cf651bd0f)
 
 ![image](https://github.com/user-attachments/assets/d886c244-9418-47b2-97b4-1def9c83fbf0)
@@ -51,17 +51,12 @@ Light Warm Green:
 ![image](https://github.com/user-attachments/assets/64a5a8f8-fecf-4f47-b0ee-c0aeefee027d)
 Light Cool Green:
 ![image](https://github.com/user-attachments/assets/0b2c41ba-39ee-4d60-95d6-acee9cd8af5a)
+
 ## Features
 
 - **Day and Night Modes:** Includes themes for both light and dark conditions.
 - **Green-Focused Palettes:** Replaces blue tones with relaxing green shades for better focus and reduced eye strain.
-- **Multiple Variants:** Choose from:
-  - **Green Eyes: Light Warm**: A cozy and warm green theme for daylight coding.
-  - **Green Eyes: Light Cool**: A refreshing cool green theme for brighter environments.
-  - **Green Eyes: Light Soft**: A subtle and softer green theme for relaxed work sessions.
-  - **Green Eyes: Dark Soft**: A dark theme optimized for night-time coding.
-## Important Note: 
-  Always use **jetbrains mono** When using any daylight theme. 
+
 ## Installation
 
 1. Open **Extensions View** in VS Code by pressing `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (macOS).
