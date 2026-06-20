@@ -76,4 +76,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 3.0.0
+**Version**: 3.1.0

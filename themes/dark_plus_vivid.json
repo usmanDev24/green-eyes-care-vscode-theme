@@ -13,7 +13,7 @@
                 "entity.name.operator.custom-literal"
             ],
             "settings": {
-                "foreground": "#cccc78"
+                "foreground": "#dede90"
             }
         },
         {
@@ -53,7 +53,7 @@
                 "storage.type.primitive.groovy"
             ],
             "settings": {
-                "foreground": "#caca2f"
+                "foreground": "#f0b915"
             }
         },
         {
@@ -67,7 +67,9 @@
                 "entity.other.inherited-class"
             ],
             "settings": {
-                "foreground": "#4e96c9"
+                "foreground": "#eab515",
+                "fontStyle": "underline"
+                
             }
         },
         {
@@ -105,7 +107,7 @@
         },
         {
             "name": "Function parameters and declarations",
-            "scope" : [
+            "scope": [
                 "variable.parameter",
                 "meta.parameter.type.variable",
                 "meta.definition.variable.name",
@@ -219,6 +221,13 @@
     "semanticTokenColors": {
         "operator": "#c586c0",
         "string": "#eba589",
-        "number": "#b5cea8"
+        "number": "#b5cea8",
+        "type": {
+            "foreground": "#eab515",
+            "fontStyle": "underline"
+        },
+        "class": {
+            "foreground": "#f0b915",
+        }
     }
 }
