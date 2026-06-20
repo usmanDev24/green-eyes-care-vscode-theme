@@ -91,7 +91,7 @@
                 "variable",
             ],
             "settings": {
-                "foreground": "#e1d9ca"
+                "foreground": "#A2E3A2"
             }
         },
         {
@@ -106,7 +106,7 @@
 				"string.constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#92efa8"
+                "foreground": "#A2E3A2"
             }
         },
         {
