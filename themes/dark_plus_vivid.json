@@ -126,7 +126,7 @@
                 "variable.other.enummember"
             ],
             "settings": {
-                "foreground": "#52d769"
+                "foreground": "#62e769"
             }
         },
         {
@@ -202,7 +202,7 @@
                 "constant.other.option"
             ],
             "settings": {
-                "foreground": "#56c56c"
+                "foreground": "#56cf6c"
             }
         },
         {

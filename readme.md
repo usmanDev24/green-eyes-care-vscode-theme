@@ -25,15 +25,20 @@ If this theme helps you, consider:
 ## ScreenShots (Version > 3.0.0) 
 **Dark Hard**
 ![image](https://github.com/user-attachments/assets/703ccabb-0a75-45c7-a648-2f6677b93980)
+
 ![image](https://github.com/user-attachments/assets/99da9235-4029-469b-83f2-0e24b98097a4)
 
-**Dark Soft**
 ![image](https://github.com/user-attachments/assets/2ca0078e-0573-48ff-a0a8-3a7a68d73559)
+
+**Dark Soft**
+
 ![image](https://github.com/user-attachments/assets/0321b1b5-f54c-4814-bfe0-30a4b2f8fe5a)
 
 **Dark Medium**
 ![image](https://github.com/user-attachments/assets/a38e11fc-ef93-4861-9efe-c2a39eba6cb6)
+
 ![image](https://github.com/user-attachments/assets/bf74e731-e4f1-4095-9cc4-5f9297949940)
+
 ![image](https://github.com/user-attachments/assets/bed1f702-6886-4997-a982-5a4033f7544d)
 
 
@@ -45,16 +50,9 @@ If this theme helps you, consider:
 ![image](https://github.com/user-attachments/assets/d886c244-9418-47b2-97b4-1def9c83fbf0)
 
 ![image](https://github.com/user-attachments/assets/2c457bd1-75ca-483c-918c-6e4a7423f5d8)
-Dark Night Green:
-![image](https://github.com/user-attachments/assets/09a2d790-04c9-4ba5-ae60-53f45f09b2f4)
-Light Warm Green:
-![image](https://github.com/user-attachments/assets/64a5a8f8-fecf-4f47-b0ee-c0aeefee027d)
-Light Cool Green:
-![image](https://github.com/user-attachments/assets/0b2c41ba-39ee-4d60-95d6-acee9cd8af5a)
 
 ## Features
 
-- **Day and Night Modes:** Includes themes for both light and dark conditions.
 - **Green-Focused Palettes:** Replaces blue tones with relaxing green shades for better focus and reduced eye strain.
 
 ## Installation
@@ -67,9 +65,6 @@ Light Cool Green:
 
 1. Go to **File** > **Preferences** > **Color Theme** (or use `Ctrl+K Ctrl+T`).
 2. Select your preferred Green Eyes First Theme variant:
-   - Green Eyes: Light Warm
-   - Green Eyes: Light Cool
-   - Green Eyes: Light Soft
    - Green Eyes: Dark Hard
    - Green Eyes: Dark Medium
    - Green Eyes: Dark Soft
@@ -90,4 +85,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 3.1.0
+**Version**: 3.2.0
