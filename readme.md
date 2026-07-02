@@ -16,13 +16,12 @@ If this theme helps you, consider:
 ## Note: 
 
   - From version 3.0.0 themes are completly rewritten ( Better EyeCare Theme ).
-  - You can check both version 2.6.3 and version > 3.0.0
-  - Version < 3.0.0 are not as good as Version > 3.0.0
-  - version < 3.0.0 will not get updates.
+  - You can check both version 2.6.3 and Latest version.
+  - Only version 4.0.0 will get new  updates.
 ## Video Preview
 [Watch the video At Youtube](https://youtu.be/bYAIbg3ctwA)
 
-## ScreenShots (Version > 3.0.0) 
+## ScreenShots (Latest Version) 
 **Dark Hard**
 ![image](https://github.com/user-attachments/assets/703ccabb-0a75-45c7-a648-2f6677b93980)
 
@@ -65,6 +64,7 @@ If this theme helps you, consider:
 
 1. Go to **File** > **Preferences** > **Color Theme** (or use `Ctrl+K Ctrl+T`).
 2. Select your preferred Green Eyes First Theme variant:
+   - Green Eyes: Dark Hard (2026)
    - Green Eyes: Dark Hard
    - Green Eyes: Dark Medium
    - Green Eyes: Dark Soft
@@ -85,4 +85,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 
 **Publisher**: Usman Ghani [usman-ghani.dev](https://usman-ghani.dev) 
 
-**Version**: 3.2.0
+**Version**: 4.0.0

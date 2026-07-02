@@ -2,7 +2,7 @@
 	"name": "green-eyes-care-theme",
 	"displayName": "Green Eyes Care Theme",
 	"description": "Dark green theme designed for easy eyes with filtered blue light. Optimized for easy on eyes, natural green, light green and night green mode to provide maximum eye comfort and eyecare",
-	"version": "3.2.0",
+	"version": "4.0.0",
 	"publisher": "usmandev24",
 	"keywords": [
 		"green",
@@ -44,6 +44,11 @@
 				"label": "Green Eyes: Dark Hard",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_hard.json"
+			}, 
+			{
+				"label": "Green Eyes: Dark Hard (2026)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_modern_hard_(2026).json"
 			}
 		]
 	},
