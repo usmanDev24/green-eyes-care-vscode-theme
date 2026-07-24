@@ -37,7 +37,7 @@
     "editorGroupHeader.tabsBorder": "#2b292700",
     "editorGutter.addedBackground": "#29863a",
     "editorGutter.deletedBackground": "#F85149",
-    "editorGutter.modifiedBackground": "#800070",
+    "editorGutter.modifiedBackground": "#a500a5",
     "editorLineNumber.activeForeground": "#CCC6C0",
     "editorLineNumber.foreground": "#787674",
     "editorOverviewRuler.border": "#010409",
